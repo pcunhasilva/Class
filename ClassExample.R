@@ -9,5 +9,8 @@ print("A new line")
 print("A third line")
 
 x<-1+2
+<<<<<<< HEAD
 
 ##Great
+=======
+>>>>>>> origin/master
